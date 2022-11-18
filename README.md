@@ -1,3 +1,9 @@
+Après 15 ans à parcourir le monde, j'ai posé mes valises et ma caméra mais j'ai continué à élargir mes horizons en me lançant dans le développement web. 
+Après une première étape de formation comme développeuse web auprès d'Openclassrooms, toujours en quête de nouveaux défis, j'ai poursuivi mon apprentissage au sein de l'agence LMWR en contrat professionnel tout en briguant le titre de conceptrice développeuse d'applications. 
+Je souhaite aujourd'hui associer mes nouvelles compétences à mes expériences professionnelles variées et ambitionne d'intégrer une entreprise à la culture innovante, enthousiaste et audacieuse.
+Rencontrons-nous!
+
+
 
 __SOCLE TECHNIQUE:__
 
