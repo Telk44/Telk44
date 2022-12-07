@@ -1,26 +1,25 @@
-Après 15 ans à parcourir le monde, j'ai posé mes valises et ma caméra mais j'ai continué à élargir mes horizons en me lançant dans le développement web. 
-Après une première étape de formation comme développeuse web auprès d'Openclassrooms, toujours en quête de nouveaux défis, j'ai poursuivi mon apprentissage au sein de l'agence LMWR en contrat professionnel tout en briguant le titre de conceptrice développeuse d'applications. 
-Je souhaite aujourd'hui associer mes nouvelles compétences à mes expériences professionnelles variées et ambitionne d'intégrer une entreprise à la culture innovante, enthousiaste et audacieuse.Vous aurez ici un aperçu des différents projets que j'ai développés.
+
+After 15 years traveling the world, I put down my suitcases and my camera but I continued to broaden my horizons by getting into web development. After a first stage of training as a web developer with Openclassrooms, always looking for new challenges, I continued my apprenticeship within the LMWR agency under a professional contract while seeking the title of designer and application developer. I now wish to combine my new skills with my varied professional experiences and aim to integrate a company with an innovative, enthusiastic and daring culture. Here you will have an overview of the various projects that I have developed. Let's meet to discuss it!
 Rencontrons-nous pour en discuter!
 
 
 
-__SOCLE TECHNIQUE:__
+__TECHNICAL BASE:__
 
 
-* __LANGAGES:__ HTML5, CSS3, SASS, Javascript, SQL
+* __LANGUAGES:__ HTML5, CSS3, SASS, Javascript, SQL
 
-* __BASE DE DONNÉES:__ MySQL, MariaDB, MongoDB
+* __DATABASE:__ MySQL, MariaDB, MongoDB
  
 * __FRAMEWORKS:__  React, React Redux, React Toolkit, Vue Js, Express JS, Jest, React Testing Library, Supertest
 
 * __CMS :__ Drupal
 
-* __CONCEPTION ET MAQUETTAGE :__ UML, Figma, Sketch, Photosphop
+* __CONCEPTION & MODELING :__ UML, Figma, Sketch, Photosphop
 
 * __VERSIONING :__ Git | GitHub | GitHub Actions |Gitlab 
 
-* __ENVIRONNEMENT :__ NodeJS, VSCode, PHP Storm, Taïga, Slack
+* __ENVIRONMENT :__ NodeJS, VSCode, PHP Storm, Taïga, Slack
 
 
 
